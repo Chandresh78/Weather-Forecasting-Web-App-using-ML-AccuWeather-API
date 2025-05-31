@@ -125,10 +125,6 @@ MIT – feel free to adapt and improve!
 
 ---
 
-## 🧩 Sample Output Preview
-
-> Add a graph/chart screenshot here (generic/illustrative only).
-
 ---
 
 ## 📌 Author
