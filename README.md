@@ -129,5 +129,4 @@ MIT – feel free to adapt and improve!
 
 ## 📌 Author
 
-Chandresh Rajpoot – Data Analyst | ML Enthusiast | Python Developer  
-*This project is a personal initiative and is not affiliated with my current employer.*
+Chandresh Rajpoot
